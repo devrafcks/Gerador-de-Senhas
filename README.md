@@ -2,27 +2,27 @@
 
 Um simples gerador de senhas para criar combinações seguras de forma prática e rápida. 🚀
 
-![image](https://github.com/user-attachments/assets/fa5346e0-a1a8-47fa-9d90-1b657be1594e)
+![Gerador de Senhas - Interface](https://github.com/user-attachments/assets/fa5346e0-a1a8-47fa-9d90-1b657be1594e)
 
+Acesse o projeto online: [Gerador de Senhas](https://gerador-de-senhas-sepia-one.vercel.app/)
 
-https://gerador-de-senhas-sepia-one.vercel.app/
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**: estrutura da aplicação.
-- **CSS3**: estilização do design.
-- **JavaScript**: lógica de geração e cópia de senhas.
+- **HTML5**: Estrutura da aplicação.
+- **CSS3**: Estilização do design.
+- **JavaScript**: Lógica de geração e cópia de senhas.
 
 ---
 
 ## 📋 Funcionalidades
 
-- Ajuste o tamanho da senha utilizando um **slider interativo**.
-- Clique no botão "Gerar senha" para criar uma senha aleatória com:
-  - Letras maiúsculas e minúsculas.
+- **Tamanho ajustável**: Defina o comprimento da senha com um slider interativo.
+- **Geração de senhas aleatórias**:
+  - Inclui letras maiúsculas e minúsculas.
   - Números.
   - Caracteres especiais como `!`, `_`, `.`.
-- Copie a senha gerada clicando nela.
+- **Cópia fácil**: Clique na senha gerada para copiá-la para a área de transferência.
 
 ---
